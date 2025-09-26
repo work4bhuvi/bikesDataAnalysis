@@ -147,9 +147,8 @@ used-bike-price-prediction/
 
 After training, model evaluation metrics can be summarized:
 
-| Model             | MAE | RMSE | R²  |
-| ----------------- | --- | ---- | --- |
-| Linear Regression | ... | ...  | ... |
-| Random Forest     | ... | ...  | ... |
-| Gradient Boosting | ... | ...  | ... |
-
+| Model             |    MAE   |   RMSE   |    R²    |
+| ----------------- | -------  | -------- | -------- |
+| Linear Regression | 0.303860 | 0.849255 | 0.485753 |
+| Random Forest     | 0.239711 | 0.846569 | 0.489001 |
+| Gradient Boosting | 0.250429 | 0.818104 | 0.522788 |
