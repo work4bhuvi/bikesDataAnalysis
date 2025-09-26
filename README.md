@@ -1,4 +1,3 @@
-````markdown
 # Used Bike Price Prediction
 
 ## Overview
